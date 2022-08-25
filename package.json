@@ -2,5 +2,8 @@
   "name": "node-express-studies",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
 }
